@@ -1,0 +1,72 @@
+.full-wrapper{
+    margin:0;
+    padding: 50px;
+}
+.dark-wrapper{
+    color: #021f3c;
+    background-color: #cdd8e3;
+}
+.service{
+    color: #29384b !important;
+    background-color: #e9edee;
+    border-color: #c5e6f8;
+    display: inline-block;
+    margin: 0 5px 5px 0;
+    padding: 4px 12px;
+}
+.mini-logo{
+    max-width: 100%;
+}
+
+footer{
+    padding-top: 20px;
+    color: #fff;
+    background-color: #343a40;
+}
+footer a{
+    color: #fff;
+}
+.footer-links {
+    list-style-type: none;
+    padding-left: 0;
+}
+.bottom {
+    position: absolute;
+    bottom: 8px;
+    left: 10%;
+    width: 80%;
+ }
+ .dias-logo{
+    min-height: 150px;
+    margin: 18px;
+    padding: 10px;
+    background-color: #9caab3;
+    border-radius: 10px;
+ }
+
+ .white-underline{
+    border-bottom: 1px solid #e9edee;
+    padding-bottom: 20px;
+    width: 100%;
+    padding-top: 20px
+ }
+ .btn-custom {
+    color: white;
+}
+
+.table-padding{
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+.nav-link.active {
+    color: #5388a7 !important;
+}
+.padding-bottom{
+    padding-bottom: 30px;
+}
+.info-break {
+    height: 1px;
+    width: 100%;
+    display: block;
+    margin: 50px 0;
+}
